@@ -1,10 +1,10 @@
 ---
-- toc: false 
-- branch: master
-- badges: true
-- comments: true
-- author: Marie Sallaberry
-- categories: [diary]
+toc: false 
+branch: master
+badges: true
+comments: true
+author: Marie Sallaberry
+categories: [diary]
 ---
 
 #Jornalind Day 1 - PyOhio
