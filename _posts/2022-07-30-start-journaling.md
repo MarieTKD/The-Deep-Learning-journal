@@ -1,7 +1,6 @@
 ---
 - toc: false 
 - branch: master
-- layout: post
 - badges: true
 - comments: true
 - author: Marie Sallaberry
