@@ -1,11 +1,12 @@
 # Journaling Day 2
 
-- toc: false 
-- branch: master
-- badges: true
-- comments: true
-- author: Marie Sallaberry
-- categories: [diary]
+toc: false 
+branch: master
+layout: post 
+badges: true
+comments: true
+author: Marie Sallaberry
+categories: [diary]
 
 Today I started a new DL project: a spider classifier. I'm using lesson 2 from Fast.ai and my previous notebook "Is it a hedgehog?".
 The goal is to put this model to production using Gradio. You will be able to download a picture of spider and it will give the probability
